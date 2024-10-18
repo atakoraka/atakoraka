@@ -1,4 +1,4 @@
-Hi, I’m @atakoraka 👋
+I’m @atakoraka 👋
 
 I’m a web developer with a deep interest in blockchain technology.
 Currently, I’m expanding my skills in decentralized systems, smart contracts, and exploring how blockchain can enhance modern web applications.
